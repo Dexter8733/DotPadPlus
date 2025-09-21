@@ -1,0 +1,1 @@
+DotPadPlus is an open source text editor free and community driven. made in C! DotPadPlus wants to put the system in the hands of the people. and we can do it. one person at a time. DotPadPlus is a community project designed by me, its run by me.
